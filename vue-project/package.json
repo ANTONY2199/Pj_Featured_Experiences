@@ -1,0 +1,16 @@
+{
+  "name": "vue",
+  "version": "1.0.0",
+  "description": "mi primer project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "vue-cli-service serve"
+  },
+  "keywords": [
+    "javascript",
+    "vue"
+  ],
+  "author": "antony",
+  "license": "ISC"
+}
